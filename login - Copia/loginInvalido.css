@@ -1,0 +1,29 @@
+body {
+    background-color: #482b7d;
+}
+div {
+    background-color: #402670;
+    width: 50%;
+    border-radius: 20px;
+    margin: auto;
+    font-size: 20px;
+    padding: 2px 0px;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+footer {
+    display: block;
+    text-align: center;
+    margin: auto;
+    color: white;
+    font-size: 20px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+}
